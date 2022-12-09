@@ -81,7 +81,7 @@ class StableDiffusionImg2ImgPipeline(DiffusionPipeline):
         self.scheduler.set_timesteps(num_inference_steps, **extra_set_kwargs)
 
         # encode the init image into latents and scale the latents
-         init_latents = self.vae.encode(init_image.to(self.device)).latent_dist.sample()
+        init_latents = self.vae.encode(init_image.to(self.device)).latent_dist.sample()
         init_latents = 0.18215 * init_latents
 
         # prepare init_latents noise to latents
