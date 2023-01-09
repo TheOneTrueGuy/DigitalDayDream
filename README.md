@@ -5,4 +5,4 @@ My eventual intention is to add a genetic algorithm into this mix but the simple
 
 (notice: this file may occasionaly be under edit. If it doesn't work please let me know and give it a 2nd chance later)
 
-
+colab link on ClipLoop.ipynb page above.
