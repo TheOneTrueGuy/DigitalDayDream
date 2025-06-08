@@ -1,8 +1,5 @@
-June 26, 2024 update:
-A high-powered upgrade from my TryCycle series (descendants of this repo) is on its way if all goes well.
-It will use the multi-modal vision aspect of Claude-Sonnet 3.5 to replace much of the more cumbersome CLIP Interrogator/BLIP2 
-components and calls to ChatGPT. The superior performance and speed of Sonnet promises to be a big boon for this and other
-visual thinking projects.
+In regards to the Gemini-2.5 multi-modal version:
+![blowing-machine-minds](https://github.com/user-attachments/assets/70f7d3c3-08c6-4bd3-bcdd-58ebd96926d0)
 
 # DigitalDayDream
 Digital daydreaming with CLIP Interrogator and Diffusers
