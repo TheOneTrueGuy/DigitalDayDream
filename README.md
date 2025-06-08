@@ -1,4 +1,5 @@
 In regards to the Gemini-2.5 multi-modal version:
+
 ![blowing-machine-minds](https://github.com/user-attachments/assets/70f7d3c3-08c6-4bd3-bcdd-58ebd96926d0)
 
 # DigitalDayDream
